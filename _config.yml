@@ -1,14 +1,15 @@
 title: The Stone Tablet
 # author:
-#   name: Zach M. (zakkaru)
+#   name: zakkaru
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 # description: >
-#  Zach's Blog, covering IT topics with a focus on networking and security.
+#  The Stone Tablet - Random/Miscellenous gaming notes
 # Build settings
 
 theme: minima
+ skin: dark
 
 plugins:
   - jekyll-feed
