@@ -1,2 +1,2 @@
 # The Stone Tablet
-Zach's Gaming Notes
+Gaming Notes
