@@ -8,12 +8,15 @@ title: The Stone Tablet
 #  The Stone Tablet - Random/Miscellenous gaming notes
 # Build settings
 
-theme: minima
+#theme: minima
+
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-remote-theme
+  
 # Theme-specific settings
 
 minima:
