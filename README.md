@@ -1,1 +1,2 @@
-# the-stone-tablet
+# The Stone Tablet
+Zach's Gaming Notes
