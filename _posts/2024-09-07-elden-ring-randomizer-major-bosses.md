@@ -155,6 +155,7 @@ date: 2024-09-07 11:40:00
 ## Weeping Peninsula
 - [ ] Dropped by Leonine Misbegotten south of Castle Morne. 
 *Replaces **Grafted Blade Greatsword***
+
 <br>
 <br>
 <br>
