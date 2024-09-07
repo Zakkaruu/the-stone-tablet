@@ -63,7 +63,8 @@ date: 2024-09-07 11:40:00
 *Replaces **Hole-Laden Necklace, Ruins Map***
 - [ ] In front of the tree to the north of Bonny Village, along the cliffbottom east of Moorth Ruins. 
 *Replaces **O Mother***
-# Excluded by current options
+
+# Excluded by default
 
 ## Charo's Hidden Grave 
 - [ ] In a chest in the second jail cell on the right after turning left before the first locked door. 
