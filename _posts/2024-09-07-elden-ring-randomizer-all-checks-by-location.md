@@ -160,7 +160,7 @@ date: 2024-09-07 13:40:00
 - [ ] Dropped by Fallingstar Beast. 
 *Replaces **Gravity Stone Chunk 10x, Somberstone Miner's Bell Bearing [1], Smithing Stone [7] 5x, Somber Smithing Stone [6]***
 
-## Caelid - War
+## Caelid - War-Dead Catacombs
 - [ ] Dropped by Putrid Tree Spirit. 
 *Replaces **Golden Seed, Redmane Knight Ogha***
 
