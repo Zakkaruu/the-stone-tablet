@@ -131,6 +131,7 @@ date: 2024-09-07 11:40:00
 *Replaces **Sacred Tear***
 - [ ] Under the Golden Seed tree straight north of Castle Morne, leaning right when approaching from Castle Morne Rampart. 
 *Replaces **Golden Seed***
+
 <br>
 <br>
 <br>
