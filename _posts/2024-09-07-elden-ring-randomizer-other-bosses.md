@@ -4,7 +4,6 @@ title: Elden Ring Randomizer Checklist - Other Bosses
 date: 2024-09-07 13:10:00
 ---
 
-
 ## Altus Plateau - Perfumer's Grotto
 - [ ] Dropped by Omenkiller and Giant Miranda Flower. 
 *Replaces **Great Omenkiller Cleaver***
