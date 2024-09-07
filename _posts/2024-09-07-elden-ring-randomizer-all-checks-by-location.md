@@ -246,8 +246,6 @@ date: 2024-09-07 13:40:00
 *Replaces **Gaol Upper Level Key***
 - [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
 *Replaces **Gaol Lower Level Key***
-
-## Charo's Hidden Grave
 - [ ] Dropped by Death Rite Bird in the gravebird lake. 
 *Replaces **Ash of War: Ghostflame Call***
 
