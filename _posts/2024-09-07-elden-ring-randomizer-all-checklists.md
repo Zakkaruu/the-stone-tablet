@@ -24,7 +24,7 @@ date: 2024-09-07 11:40:00
 - [ ] In a chest in the tower on the castle's southeast rampart, before the elevator up to Castle-Lord's Chamber. 
 *Replaces **Imbued Sword Key***
 
-## Charo's Hidden Grave 
+## Charo's Hidden Grave - Lamenter's Gaol
 - [ ] In a chest in the second jail cell on the right after turning left before the first locked door. 
 *Replaces **Gaol Upper Level Key***
 - [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
