@@ -4,7 +4,7 @@ title: Elden Ring Randomizer Checklist - Golden Seed Trees And Sacred Tear Churc
 date: 2024-09-07 11:40:00
 ---
 
- ## Limgrave
+## Limgrave
 - [ ] At the statue in the Third Church of Marika, northeast of the Mistwood. 
 *Replaces **Sacred Tear***
 - [ ] Under a Golden Seed tree in front of Fort Haight. 
