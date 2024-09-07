@@ -4,8 +4,6 @@ title: Elden Ring Randomizer Checklist - Major Bosses
 date: 2024-09-07 11:40:00
 ---
 
-{% include checkableboxes.html %}
-
 ## Stormhill
 - [ ] Dropped by Margit the Fell Omen or Morgott the Omen King. 
 *Replaces **Talisman Pouch***
