@@ -63,6 +63,7 @@ date: 2024-09-07 11:40:00
 ## Weeping Peninsula
 - [ ] Sold by the Isolated Merchant at the Isolated Merchant Shack near the southwest shore
 - [ ] Sold by the Nomadic Merchant at Castle Morne Rampart
+
 <br>
 <br>
 <br>
