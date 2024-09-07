@@ -73,9 +73,11 @@ date: 2024-09-07 11:40:00
 *Replaces **Gaol Upper Level Key***
 - [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
 *Replaces **Gaol Lower Level Key***
+
 <br>
 <br>
 <br>
+
 # Major Bosses %
 
 ## Academy of Raya Lucaria
@@ -229,9 +231,11 @@ date: 2024-09-07 11:40:00
 ## Weeping Peninsula
 - [ ] Dropped by Leonine Misbegotten south of Castle Morne. 
 *Replaces **Grafted Blade Greatsword***
+
 <br>
 <br>
 <br>
+
 # Golden Seed Trees And Sacred Tear Churches %
 
 ## Academy of Raya Lucaria
@@ -361,9 +365,11 @@ date: 2024-09-07 11:40:00
 *Replaces **Sacred Tear***
 - [ ] Under the Golden Seed tree straight north of Castle Morne, leaning right when approaching from Castle Morne Rampart. 
 *Replaces **Golden Seed***
+
 <br>
 <br>
 <br>
+
 # Merchant Shops %
 
 ## Academy of Raya Lucaria
@@ -425,9 +431,11 @@ date: 2024-09-07 11:40:00
 ## Weeping Peninsula
 - [ ] Sold by the Isolated Merchant at the Isolated Merchant Shack near the southwest shore
 - [ ] Sold by the Nomadic Merchant at Castle Morne Rampart
+
 <br>
 <br>
 <br>
+
 # Shadow Realm Blessings Pickups %
 
 ## Abyssal Woods
@@ -563,6 +571,8 @@ date: 2024-09-07 11:40:00
 ## Stone Coffin Fissure
 - [ ] By Miquella's Cross at the Fissure Cross grace. 
 *Replaces **Scadutree Fragment***
+
 <br>
 <br>
 <br>
+
