@@ -68,7 +68,7 @@ date: 2024-09-07 11:40:00
 
 ## Excluded by default
 
-## Charo's Hidden Grave 
+## Charo's Hidden Grave - Lamenter's Gaol
 - [ ] In a chest in the second jail cell on the right after turning left before the first locked door. 
 *Replaces **Gaol Upper Level Key***
 - [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
