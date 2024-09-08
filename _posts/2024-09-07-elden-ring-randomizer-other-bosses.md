@@ -503,3 +503,5 @@ date: 2024-09-07 13:10:00
 <br>
 <br>
 <br>
+
+{% include checkbox-enable.html %}
