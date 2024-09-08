@@ -4,7 +4,6 @@ title: Elden Ring Randomizer Checklist - All Checklists by Location
 date: 2024-09-07 13:40:00
 ---
 
-
 ## Abyssal Woods
 - [ ] In front of the statue pedestal in Abandoned Church. 
 *Replaces **Scadutree Fragment 2x***
