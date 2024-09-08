@@ -24,12 +24,6 @@ date: 2024-09-07 11:40:00
 - [ ] In a chest in the tower on the castle's southeast rampart, before the elevator up to Castle-Lord's Chamber. 
 *Replaces **Imbued Sword Key***
 
-## Charo's Hidden Grave - Lamenter's Gaol
-- [ ] In a chest in the second jail cell on the right after turning left before the first locked door. 
-*Replaces **Gaol Upper Level Key***
-- [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
-*Replaces **Gaol Lower Level Key***
-
 ## Divine Tower of Liurnia
 - [ ] At the top of the Divine Tower of Liurnia, accessed after traversing Carian Study Hall. 
 *Replaces **Stargazer Heirloom, Cursemark of Death***
@@ -71,6 +65,14 @@ date: 2024-09-07 11:40:00
 ## Volcano Manor
 - [ ] Given by Tanith upon joining Volcano Manor, or in her chair after defeating Rykard. 
 *Replaces **Drawing-Room Key***
+
+## Excluded by current options
+
+## Charo's Hidden Grave - Lamenter's Gaol
+- [ ] In a chest in the second jail cell on the right after turning left before the first locked door. 
+*Replaces **Gaol Upper Level Key***
+- [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
+*Replaces **Gaol Lower Level Key***
 
 <br>
 <br>
@@ -706,7 +708,7 @@ date: 2024-09-07 11:40:00
 - [ ] Dropped by Grafted Scion. 
 *Replaces **Ornamental Straight Sword, Golden Beast Crest Shield***
 
-## Charo's Hidden Grave 
+## Charo's Hidden Grave - Lamenter's Gaol
 - [ ] Dropped by Lamenter. 
 *Replaces **Lamenter's Mask***
 
@@ -780,7 +782,7 @@ date: 2024-09-07 11:40:00
 - [ ] Dropped by Count Ymir after he invades in Manus Metyr after defeating Metyr. 
 *Replaces **Maternal Staff, High Priest Hat, High Priest Robe, High Priest Gloves, High Priest Undergarments, Ymir's Bell Bearing***
 
-## Flame Peak - Giant
+## Flame Peak - Giant-Conquering Hero's Grave
 - [ ] Dropped by Ancient Hero of Zamor. 
 *Replaces **Zamor Curved Sword, Zamor Mask, Zamor Armor, Zamor Bracelets, Zamor Legwraps***
 
