@@ -4,7 +4,9 @@ title: Elden Ring Randomizer Checklist - Default Checklists
 date: 2024-09-07 11:40:00
 ---
 
-{% include checkbox-enable.html %}
+<head>
+  {% include checkbox-enable.html %}
+</head>
 
 # Vanilla Locations Of Major Key Items %
 
