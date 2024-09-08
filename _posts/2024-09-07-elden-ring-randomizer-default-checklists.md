@@ -4,13 +4,6 @@ title: Elden Ring Randomizer Checklist - Default Checklists
 date: 2024-09-07 11:40:00
 ---
 
-<script>
-  const checkboxes = document.getElementsByClassName('task-list-item-checkbox');
-  Array.prototype.forEach.call(checkboxes, function (e) {
-    e.removeAttribute('disabled');
-  });
-</script>
-
 # Vanilla Locations Of Major Key Items %
 
 ## Academy of Raya Lucaria
