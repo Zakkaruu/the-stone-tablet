@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Elden Ring Mods (ModEngine2) on Steamdeck
 date: 2024-08-02 20:05:00
 ---

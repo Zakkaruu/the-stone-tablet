@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Elden Ring Randomizer Checklist - Vanilla Locations of Key Items
 date: 2024-09-07 11:40:00
 ---
