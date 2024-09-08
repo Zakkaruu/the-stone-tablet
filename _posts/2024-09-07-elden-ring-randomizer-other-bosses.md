@@ -208,7 +208,7 @@ date: 2024-09-07 13:10:00
 - [ ] Dropped by Count Ymir after he invades in Manus Metyr after defeating Metyr. 
 *Replaces **Maternal Staff, High Priest Hat, High Priest Robe, High Priest Gloves, High Priest Undergarments, Ymir's Bell Bearing***
 
-## Flame Peak - Giant
+## Flame Peak - Giant-Conquering Hero's Grave
 - [ ] Dropped by Ancient Hero of Zamor. 
 *Replaces **Zamor Curved Sword, Zamor Mask, Zamor Armor, Zamor Bracelets, Zamor Legwraps***
 

@@ -364,7 +364,7 @@ date: 2024-09-07 13:40:00
 - [ ] Dropped by Metyr, Mother of Fingers. 
 *Replaces **Remembrance of the Mother of Fingers***
 
-## Flame Peak - Giant
+## Flame Peak - Giant-Conquering Hero's Grave
 - [ ] Dropped by Ancient Hero of Zamor. 
 *Replaces **Zamor Curved Sword, Zamor Mask, Zamor Armor, Zamor Bracelets, Zamor Legwraps***
 
