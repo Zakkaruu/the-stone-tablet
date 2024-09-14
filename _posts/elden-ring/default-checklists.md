@@ -557,7 +557,3 @@
 ## Stone Coffin Fissure
 - [ ] By Miquella's Cross at the Fissure Cross grace. 
 *Replaces* **Scadutree Fragment**
-
-<br>
-<br>
-<br>

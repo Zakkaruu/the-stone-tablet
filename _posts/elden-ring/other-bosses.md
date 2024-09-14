@@ -493,7 +493,3 @@
 *Replaces* **Opaline Bubbletear, Crimsonburst Crystal Tear**
 - [ ] Dropped by the Night's Cavalry at Castle Morne Rampart. They only spawn at night. 
 *Replaces* **Nightrider Flail, Ash of War: Barricade Shield**
-
-<br>
-<br>
-<br>

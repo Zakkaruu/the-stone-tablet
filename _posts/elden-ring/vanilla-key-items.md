@@ -65,7 +65,3 @@
 *Replaces* **Gaol Upper Level Key**
 - [ ] In a chest in the southeast corner of the cavern with living jar warriors, reached by climbing the stairs to the second door on the right after falling down the collapsing floor. 
 *Replaces* **Gaol Lower Level Key**
-
-<br>
-<br>
-<br>

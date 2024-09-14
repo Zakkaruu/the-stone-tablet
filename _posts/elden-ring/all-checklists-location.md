@@ -881,7 +881,3 @@
 - [ ] Sold by the Nomadic Merchant at Castle Morne Rampart
 - [ ] Under the Golden Seed tree straight north of Castle Morne, leaning right when approaching from Castle Morne Rampart. 
 *Replaces* **Golden Seed**
-
-<br>
-<br>
-<br>
